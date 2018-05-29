@@ -1,14 +1,14 @@
 # sockets-python3-example
-An example of sockets usage
+An example of sockets usage,
 this code was tested with python3.6
 
 ## Usage
-In a console use
+In a console type
 ```console
 foo@bar:~$ python server.py
 ```
 
-In other console use
+In another console type
 ```console
 foo@bar:~$ python client.py
 ```
